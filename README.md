@@ -2,7 +2,7 @@
 
 The goal of this project is to complete [Real Python's DJANGO introduction](https://realpython.com/get-started-with-django-1/).
 
-Template is written with django 1.11 and python 3 in mind.
+Template is written with django 1.11 and python 3.
 
 ### Main features
 
