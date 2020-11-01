@@ -19,3 +19,7 @@ Template is written with django 1.11 and python 3 in mind.
 * Separated requirements files
 
 * SQLite by default if no env variable is set
+
+### Launch the app
+
+To start the app locally, run `python manage.py runserver`!
