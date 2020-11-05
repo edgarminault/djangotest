@@ -14,8 +14,6 @@ Template is written with django 1.11 and python 3.
 
 * User registration and logging in as demo
 
-* Procfile for easy deployments
-
 * Separated requirements files
 
 * SQLite by default if no env variable is set
